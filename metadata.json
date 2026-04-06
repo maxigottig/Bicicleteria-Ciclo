@@ -1,0 +1,5 @@
+{
+  "name": "Ciclo Congreso - Bicicletería & Taller",
+  "description": "Sitio web oficial de Ciclo Congreso, tu bicicletería de confianza en el barrio de Congreso. Ofrecemos servicios de mecánica especializada, venta de bicicletas, accesorios y atención personalizada con IA.",
+  "requestFramePermissions": ["geolocation"]
+}
